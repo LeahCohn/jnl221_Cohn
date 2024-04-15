@@ -1,0 +1,67 @@
+/*This is the CSS page for our final template.*/
+.sticky-note {
+    position: fixed;
+    top: 50%;
+    right: 20px;
+    background-color: yellow;
+    padding: 20px;
+    border: 2px solid black;
+    transform: translateY(-50%);
+    z-index: 9999;
+}
+
+img {
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+    img {
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+}
+
+p {
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.header {
+	height: auto;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Georgia', serif;
+	background-color: skyblue;
+    color: plum;
+}
+
+}
+h4 {
+	font-style: italic;
+	font-size: 40px;
+	font-family: 'Georgia', serif;
+}
+h3 {
+	font-size: 30px;
+}
+
+
+/*Don't worry about this section yet*/
+@media only screen and (max-width: 767px)
+{
+ .list {
+ 	float: none;
+ 	min-width: 90%;
+ 	margin-left: 10px;
+ 	margin-bottom: 30px;
+ 	margin-top: 30px;
+ }
+ iframe {
+ 	min-width: 90%;
+ 	margin-right: 10px;
+ }
+}
