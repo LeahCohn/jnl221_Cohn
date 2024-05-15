@@ -1,0 +1,71 @@
+<!-- This is the completed HTML page for our final project template. -->
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Final project template: HTML</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Link tag for CSS -->
+		<head>
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="final.css">
+</head>
+
+		<!-- Google font: Poppins -->
+		
+	</head>
+		
+	<body>
+		<section class="header">
+			<h2> An expansive recap on university Middle Eastern education in theory and practice  </h2>
+			<h4> Students have been arrested for their involvement in activism movements: the foundation of many higher education degrees that students currently persue.  <br> By Leah Cohn </h4>
+		</section> <img src="jylnG-u-s-campuses-where-protesters-have-been-arrested-or-detained-.png" alt="Description of Image" height="150px" width="200px">
+		</section> <img src="XbUJN-middle-eastern-studies-degree-completions-at-u-s-universities-nbsp-copy- (1).png" alt="Description of Image" height="150px" width="200px">
+		<section>
+			<h3></h3>
+In the wake of nationwide American higher education institutions recognizing and resisting institution complicity of genocide in the middle east, Middle Eastern discussion and discourse is everso present in media and day to day interactions. 
+Out of the dozen universities and colleges that have participated in encampment organization, protesters from around 40 U.S college campuses have been arrested or detained, according to The New York Times. Columbia University took the lead in engaging in collective campus protesting, creating encampment of students, faculty, and local residents to force administration to divest from Israel. With the combination of boycotting, divestment and sanctions from Israel, America’s funding of Israel’s genocide of Palestians in Gaza. 
+Students’ knowledge has been broadcasted on youth centered media, such as TikTok, Instagram, and personal Snapchat accounts. The spread of interpretation and analysis of current movements and social activism across social media has fueled lawmakers to write bills that address banning, and hence censorship of media that is vital in the transcendent motion in action of the activist movement. 
+Students have been arrested for their involvement in activism movements and resistance towards genocide, which are two foundations of many higher education degrees that students are currently pursuing. Prior to the recent increase of Middle Eastern studies awareness among youth culture, a part of the activist pro-Palestine movement, students have enrolled themselves in university and college programs that title as Middle Eastern Studies and Near, according to Data USA. 
+During 2019 to 2021, students of Harvard University, New York University, Brandeis University, University of Chicago, and Georgetown University were able to graduate with degrees in Middle Eastern Studies and Near. On average each institution during the three year period granted about 300 students degrees in Middle Eastern Studies and subjects in close relation to the Middle East. Without these degrees however, students of universities studying an array of subjects, engaged with the current reality of life in the Middle East. 
+On April 29th, local student activists embarked on their encampment on Syracuse University’s campus, occupying the main quad with tents. University students, staff, and faculty have filled the area with donations of food and needed supplies, a sign of solidarity with university and Syracuse community members that are participating in the encampment and organization of demands directed towards the university administration. 
+As of Wednesday May 8th, Syracuse University distributed a letter to encampment participants in physical form alerting members that they are being demanded to relocate their encampment for a more convenient place for the university, now that they “began erecting large tents on the Quad in preparation for graduation”. 
+These tents can be seen in photos of the @su_sjp (https://www.instagram.com/su_sjp/) instagram page, that has been documenting the encampment through a media lens following an informative teach-in by professor Jenn Jackson. Last week Jackson was welcomed at the teach-in to share their insight on organization, power, and transforming movements. 
+They spoke about the historical significance of activism vs. organization, relating the current rise of pro-Palestinain movement across the globe to the anti-apartheid movement in South Africa. Jackson brought a reconing to students with their plea for student organizers to orchestrate their own narrative. 
+Prior to the teach-in, encampment organizers heavily restricted media access, only speaking with media officially, on the record, last Thursday. The lack of contact to the media was to protect encampment organizers, especially to withhold personal information and facial recognition to avoid doxing from local and federal law enforcement authorities spread through the media. 
+Jackson encouraged students to start engaging with media and become the media’s source of input and output of information, to spread the goal of the encampment with the administration not only through their personal social media accounts, voices, and demonstrations, but with local media. They explained that this could allow media to become a platform of solidarity, if and only if the media outlet responded to given information and following reporting with an unbiased lens, a boulder many media sources are currently struggling to master in this time of war stricken reality. 
+Along with Jackson, other professors and local professionals of minority lifestyle conditions have been welcomed by the encampment community to educate students on liberation tactics. Today, students engaged with a teach-in on disability justice, and how disablement is used as a tool of violence. “A tool that has been used against Palestians for over 75 years”, according to the Student for Justice in Palestine Syracuse U. 
+These students, as mentioned before, claim to be SU’s Chapter of “Popular University for Palestine”, an official name for each university’s encampment occupation. This name was started by Columbia University’s encampment in recognition of the thousands of Palestinian lives lost, in addition to teachers and professors at Palestinian universities, let alone the destruction of Palestinian universities themselves. 
+Months prior to the encampment, SU community members who support the right to academic freedom raised other complications they had with the greater and of higher authority, such as Provost Gretchen Ritter and Chancellor Kent Syverud. The people of the SU community felt their academic freedom was threatened, especially after a history of Palestine teach-in to be held on campus was canceled due to safety reasons, according to a statement released by the SU Vice Chancellor and Chancellor.  
+Founder of the Middle Eastern Studies Program at Syracuse University, Dr. Mehrzad Boroujerdi, said, “Nobody has monopoly over truth, right, after all judgements can be subjective, right and I don’t think there should be any real serious red lines”. Boroujerdi says that the department and the university have the duty to allow all voices to be heard, in contrast to how current students and educators feel. 
+Currently, SU’s encampment organizers are planning to remain in place despite SU’s graduation next week and the administration’s demand for their relocation. In turn, students are choosing to remain on the quad until university administration agrees to all demands of divestment. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert Image</title>
+</head>
+
+</body>
+</html>
+
+		</section>
+		<div class="sticky-note">
+    <p>Sticky note.</p>
+    <p>For current SU encampment news, visit @LeahCohnTV on X.</p>
+</div>
+
+		
+		<div class="footer">
+			<p>This page was built in Github Pages by Prof. Nausheen Husain for JNL221 at Syracuse University. Fonts used: Georgia, Poppins.</p>
+			<a href="https://docs.google.com/spreadsheets/d/1KcyAp-732ENf0BWO4Vc_zi2tyrjtKMrIOCZBjUr77bM/edit#gid=1580645797">Link to Google Sheets</a>
+			<a href="file:///Users/leahc/Desktop/final-template-main/final.html">Link to final.html</a>
+
+
+		</div>
+	</body>
+</html>
